@@ -20,6 +20,10 @@
             "PowerShell Core"
         ]
     ],
+    "persist": [
+        "profile.ps1",
+        "Microsoft.PowerShell_profile.ps1"
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
